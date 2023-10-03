@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 
 - ![image](https://github.com/Rdev921/property_cards_assignment/assets/61020616/c757ce80-b863-4964-a6f9-21a6c142dda9)
 
+- Tech Stack- ReactJS TailwindCss
+- Mock Data - https://fakestoreapi.com/products
+

@@ -29,6 +29,7 @@ const ProductDetails = () => {
                         <h3 className='title'>{product.title}</h3>
                         <p className='category'>{product.category}</p>
                         <h3 className='price'>${product.price}</h3>
+                        <p>{product.description}</p>
                     </div>
                 </div>
 

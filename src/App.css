@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(248,250,255)
+}
+.card{
+    height: 60vh;
+    width: 20vw;
+    margin-bottom: 20px;
+    border: 1px solid rgb(191, 191, 192);
+    padding: 30px;
+    background-color: rgb(238, 240, 240);
+    border-radius: 10px; 
+}
+.card img{
+    width: 100%;
+    max-height: 200px;
+    margin-bottom: 10px;
+
+}
+
+.title{
+    font-weight: bold;
+    font-size: 14px;
+}
+.category{
+    text-transform: capitalize;
+    font-size: 13px;
+}
+.price{
+    font-size: 14px;
+    font-weight: bold;
+}
+.load_data{
+    display: block;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(238, 240, 240);
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+}
+
+.category-buttons button{
+    /* background-color: transparent; */
+    border: 1px solid rgb(38,111,239);
+    color: black;
+    outline: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.active{
+    background-color: rgb(38,111,239);
+    color: white;
+}
+.read_more{
+    background-color: rgb(38,111,239);
+    color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+.category-buttons button:hover{
+    background-color: rgb(38,111,239);
+    color: white;
+}
